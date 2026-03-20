@@ -12,15 +12,15 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=allanjustine&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Dev-Tian&label=Profile%20views&color=0e75b6&style=flat"
     alt="allanjustine"
   />
 </p>
 
 <p align="left">
-  <a href="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
+  <a href="https://github-trophies.vercel.app/?username=Dev-Tian&theme=matrix"
     ><img
-      src="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
+      src="https://github-trophies.vercel.app/?username=Dev-Tian&theme=matrix"
       alt="allanjustine"
        style="width: 100%;"
   /></a>
