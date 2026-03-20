@@ -13,7 +13,7 @@
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=Dev-Tian&label=Profile%20views&color=0e75b6&style=flat"
-    alt="allanjustine"
+    alt="Dev-Tian"
   />
 </p>
 
@@ -21,7 +21,7 @@
   <a href="https://github-trophies.vercel.app/?username=Dev-Tian&theme=matrix"
     ><img
       src="https://github-trophies.vercel.app/?username=Dev-Tian&theme=matrix"
-      alt="allanjustine"
+      alt="Dev-Tian"
        style="width: 100%;"
   /></a>
 </p>
