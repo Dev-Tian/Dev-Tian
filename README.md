@@ -49,7 +49,6 @@ hobbies    : Eating 🍜  Sleeping 😴  Coding 💻
 **Backend**
 
 ![Laravel](https://img.shields.io/badge/Laravel-F9F5FF?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![NestJS](https://img.shields.io/badge/NestJS-F9F5FF?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![PHP](https://img.shields.io/badge/PHP-F9F5FF?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Livewire](https://img.shields.io/badge/Livewire-F9F5FF?style=for-the-badge&logo=livewire&logoColor=4E56A6)
 ![Spatie](https://img.shields.io/badge/Spatie-F9F5FF?style=for-the-badge&logo=spatie&logoColor=2D8A87)
