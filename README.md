@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Allan%20Justine&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Allan%20Justine&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Entry Level Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
 
 </div>
 
 <div align="center">
 
-<a href="https://allanjustine.github.io/Portfolio" target="_blank">
+<a href="https://Dev-Tian.github.io/Portfolio" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Allan+Justine+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+Enthusiast+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
