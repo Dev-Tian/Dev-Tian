@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://Dev-Tian.github.io/Portfolio" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Cristian+Simbajon+%F0%9F%91%8B;Entry%20Level%Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+Enthusiast+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Cristian+Simbajon+%F0%9F%91%8B;Entry%20Level%Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+Enthusiast+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
