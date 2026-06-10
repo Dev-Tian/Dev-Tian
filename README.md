@@ -113,7 +113,7 @@ hobbies    : Eating 🍜  Sleeping 😴  Coding 💻
 <a href="https://www.linkedin.com/in/cristian-simbajon-b662073b0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-F9F5FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="https://www.facebook.com/1down" target="_blank">
+<a href="https://www.facebook.com/cristian.simbajon.19" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-F9F5FF?style=for-the-badge&logo=facebook&logoColor=1877F2" />
 </a>
 <a href="mailto:shin16family@gmail.com" target="_blank">
