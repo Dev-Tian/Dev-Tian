@@ -59,13 +59,13 @@ hobbies    : Eating 🍜  Sleeping 😴  Coding 💻
 ![Next.js](https://img.shields.io/badge/Next.js-F9F5FF?style=for-the-badge&logo=nextdotjs&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F9F5FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F9F5FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-F9F5FF?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 **Styling**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-F9F5FF?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-F9F5FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-F9F5FF?style=for-the-badge&logo=shadcnui&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-F9F5FF?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-F9F5FF?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Database & Tools**
