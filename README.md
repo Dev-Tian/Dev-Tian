@@ -54,8 +54,6 @@ hobbies    : Eating 🍜  Sleeping 😴  Coding 💻
 ![Spatie](https://img.shields.io/badge/Spatie-F9F5FF?style=for-the-badge&logo=spatie&logoColor=2D8A87)
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-F9F5FF?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-F9F5FF?style=for-the-badge&logo=nextdotjs&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F9F5FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F9F5FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
